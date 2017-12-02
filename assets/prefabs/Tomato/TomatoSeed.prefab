@@ -1,0 +1,17 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Tomato Seed"
+  },
+  "Item": {
+    "icon": "AdditionalVegetables:TomatoSeed",
+    "stackId": "Tomato Seed"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalVegetables:TomatoVineStem",
+    "bud": "AdditionalVegetables:TomatoBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
+  }
+}

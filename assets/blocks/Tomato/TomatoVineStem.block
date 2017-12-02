@@ -1,0 +1,8 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Tomato Vine Stem",
+  "tiles": {
+    "sides": "AdditionalVegetables:TomatoVineStem",
+    "topBottom": "AdditionalVegetables:YoungTomatoBud"
+  }
+}
