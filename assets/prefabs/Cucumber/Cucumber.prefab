@@ -14,5 +14,11 @@
     "bud": "AdditionalVegetables:CucumberBud",
     "minGrowTime": 4000,
     "maxGrowTime": 7000
+  },
+  "Food": {
+    "filling": 0.6
+  },
+  "Drink": {
+    "filling": 0.5
   }
 }

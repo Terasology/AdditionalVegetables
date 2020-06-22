@@ -12,7 +12,7 @@
     "type": "Potato"
   },
   "Food": {
-    "filling": 0.6
+    "filling": 2
   },
   "ItemHelp": {
     "category": "Edible Flora",

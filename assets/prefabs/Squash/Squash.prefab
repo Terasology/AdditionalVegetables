@@ -8,6 +8,12 @@
   "DisplayName": {
     "name": "Squash"
   },
+  "Food": {
+    "filling": 1
+  },
+  "Drink": {
+    "filling": 0.5
+  },
   "SeedDefinition": {},
   "VineDefinition": {
     "stem": "AdditionalVegetables:SquashVineStem",
