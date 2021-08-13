@@ -10,12 +10,12 @@
         "maxTime": 14000
       },
       "AdditionalVegetables:MaturePotatoBush": {
-        "maxRandom": 8000,
-        "fixed": 16000
+        "minTime": 8000,
+        "maxTime": 16000
       },
       "AdditionalVegetables:FruitingPotatoBush": {
-        "maxRandom": 8000,
-        "fixed": 16000
+        "minTime": 8000,
+        "maxTime": 16000
       }
     },
     "produce": "AdditionalVegetables:Potato",
